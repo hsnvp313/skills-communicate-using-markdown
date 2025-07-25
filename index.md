@@ -14,3 +14,7 @@ I added some headers to learn about github markdown files
 m= Mulearn
 print(m)
 ```
+## Addin list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
