@@ -4,3 +4,7 @@
 
 
 I added some headers to learn about github markdown files
+
+## ADDING IMAGE TO MARKDOWN FILE
+### mulearn logo
+![MULEARN LOGO](https://avatars.githubusercontent.com/u/98015594?s=200&v=4)
